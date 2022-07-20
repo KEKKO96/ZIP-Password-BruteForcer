@@ -16,7 +16,7 @@ banner += ' GitHub:\n'
 banner += ' https://github.com/The404Hacking/ZIP-Password-BruteForcer\n\n'
 banner += ' [1] Zip Password Cracker\n'
 banner += ' [0] Exit\n'
-print banner
+print (banner)
 
 a=input(" [?] Enter Number : ")
 if a==0:
